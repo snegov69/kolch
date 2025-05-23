@@ -24,6 +24,8 @@ driver.quit()
 """
 ID = "id"
 XPATH = "xpath"
+    <button class="btn btn-white">Join</button>
+    //button[contains(text(), 'Join')]
 LINK_TEXT = "link text"
 PARTIAL_LINK_TEXT = "partial link text"
 NAME = "name"
